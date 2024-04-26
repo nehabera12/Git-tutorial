@@ -1,0 +1,3 @@
+neha.txt
+*.pyc
+*.sql
